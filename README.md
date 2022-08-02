@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 👯 Block chain
 - 🤔 Currently learning something expecial.
 - 📫 Email: Cuerz@qq.com
+- 🪢 Blog: https://www.cnblogs.com/SeanGyy/
 - ⚡ Stay hungry,Stay foolish.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cuerz)](https://github.com/anuraghazra/github-readme-stats)
