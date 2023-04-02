@@ -6,12 +6,11 @@
 Here are some ideas to get you started:
 -->
 - 🔭 University student.
-- 🌱 Working for myself.
 - 👯 Block chain
-- 🤔 Currently learning something expecial.
 - 📫 Email: Cuerz@qq.com
-- 🪢 Blog: https://www.cnblogs.com/SeanGyy/
+- 🪢 Blog: https://cuerz.github.io/
 - ⚡ Stay hungry,Stay foolish.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cuerz)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/Cuerz?template=classic&isocalendar=1&languages=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&config.timezone=Asia%2FShanghai) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cuerz&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 ![](https://raw.githubusercontent.com/Cuerz/Cuerz/main/assets/github-contribution-grid-snake.svg)
