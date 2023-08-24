@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 University student.
 - 👯 Block chain
 - 📫 Email: Cuerz@qq.com
-- 🪢 Blog: https://cuerz.github.io/
+- 🪢 Blog: https://cuerz.github.io/ && https://www.cnblogs.com/SeanGyy/
 - ⚡ Stay hungry,Stay foolish.
 - 💬 My WeChat：Cuerz_s
 
