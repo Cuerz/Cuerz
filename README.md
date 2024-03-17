@@ -12,6 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Stay hungry,Stay foolish.
 - 💬 My WeChat：Cuerz_s
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cuerz&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-![](https://raw.githubusercontent.com/Cuerz/Cuerz/main/assets/github-contribution-grid-snake.svg)
