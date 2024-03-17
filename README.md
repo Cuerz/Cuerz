@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 - 🔭 University student.
 - 👯 Cyber Security && Block chain
 - 📫 Email: Cuerz@qq.com
-- 🪢 Blog: https://cuerz.github.io/ && https://www.cnblogs.com/SeanGyy/
+- 🪢 Blog: https://www.cnblogs.com/SeanGyy/
+- 🖼️ yueque：https://www.yuque.com/cuerz
 - ⚡ Stay hungry,Stay foolish.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cuerz&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
