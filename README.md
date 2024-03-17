@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Stay hungry,Stay foolish.
 - 💬 My WeChat：Cuerz_s
 
-![Metrics](https://metrics.lecoq.io/Cuerz?template=classic&base.metadata=0&languages=1&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2Cprogramming&languages.recent.categories=markup%2Cprogramming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cuerz&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 ![](https://raw.githubusercontent.com/Cuerz/Cuerz/main/assets/github-contribution-grid-snake.svg)
